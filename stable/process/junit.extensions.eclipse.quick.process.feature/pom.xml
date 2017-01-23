@@ -11,7 +11,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 
   <artifactId>junit.extensions.eclipse.quick.process.feature</artifactId>
   <packaging>eclipse-feature</packaging>
-  <version>0.1.1.qualifier</version>
+  <version>0.1.1-SNAPSHOT</version>
 
   <build>
     <plugins>
